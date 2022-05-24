@@ -16,7 +16,7 @@ Oleh karena itu, dibutuhkan penyelesaian masalah yang dapat mengatasi masalah in
 
 **3. Goal**
 
-Untuk melakukan prediksi harga jual/sewa apartment di Daegu, Korea Selatan
+Untuk membangun model machine learning yang bertujuan memprediksi harga jual/sewa apartment di Daegu, Korea Selatan
 
 **4. Analytic Approach**
 
